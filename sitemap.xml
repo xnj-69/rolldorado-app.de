@@ -2,35 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/datenschutzrichtlinie/</loc>
+    <loc>https://rolldorado-app.de/datenschutzrichtlinie/</loc>
     <lastmod>2025-10-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/agb/</loc>
+    <loc>https://rolldorado-app.de/agb/</loc>
     <lastmod>2025-10-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/app/</loc>
+    <loc>https://rolldorado-app.de/app/</loc>
     <lastmod>2025-10-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/verantwortungsbewusstes-spielen/</loc>
+    <loc>https://rolldorado-app.de/verantwortungsbewusstes-spielen/</loc>
     <lastmod>2025-10-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/bonus/</loc>
+    <loc>https://rolldorado-app.de/bonus/</loc>
     <lastmod>2025-10-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/uber-uns/</loc>
+    <loc>https://rolldorado-app.de/uber-uns/</loc>
     <lastmod>2025-10-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/contacts/</loc>
+    <loc>https://rolldorado-app.de/contacts/</loc>
     <lastmod>2025-10-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/cookie-richtlinie/</loc>
+    <loc>https://rolldorado-app.de/cookie-richtlinie/</loc>
     <lastmod>2025-10-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://rolldorado-app.de/</loc>
     <lastmod>2025-10-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://rolldorado-app.de/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://rolldorado-app.de/tags/</loc>
   </url>
 </urlset>

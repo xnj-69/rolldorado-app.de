@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Offizielle Nutzungsbedingungen für Plinko-Informationen on Rolldoradoapp</title>
-    <link>http://localhost:1313/agb/</link>
+    <link>https://rolldorado-app.de/agb/</link>
     <description>Recent content in Offizielle Nutzungsbedingungen für Plinko-Informationen on Rolldoradoapp</description>
     <generator>Hugo</generator>
     <language>de</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:1313/agb/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://rolldorado-app.de/agb/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
